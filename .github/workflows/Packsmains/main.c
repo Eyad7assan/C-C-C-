@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <custom.h>
-using namespace std;
+
 int main()
 {
-    print("jh")
+    print("jh");
+    return 0;
 }

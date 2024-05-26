@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "/workspaces/C-C-C-/.github/workflows/Packs&mains"
+    "cmake.sourceDirectory": "/workspaces/C-C-C-/.github/workflows/Packs&mains",
+    "files.associations": {
+        "custom.h": "custom"
+    }
 }
